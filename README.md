@@ -1,6 +1,8 @@
 # Auto converted arduino musics library
 
 Just give credit, to this repository if you use these codes on a tutorial, video, example, etc.
+You can use the sketches for anything.
+
 
 Auto convert( Midi to Arduino Converter ) tool by (Credit) :
 
