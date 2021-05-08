@@ -1,8 +1,8 @@
 # Auto converted arduino musics library
 
-Auto convert( Midi to Arduino Converter ) tool by :
+Just give credit, to this repository if you use these codes on a tutorial, video, example, etc.
 
-Credit:
+Auto convert( Midi to Arduino Converter ) tool by (Credit) :
 
   Midi to Arduino Converter
   - Andy Tran (extramaster), 2015
