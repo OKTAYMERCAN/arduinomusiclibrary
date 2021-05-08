@@ -1,6 +1,6 @@
 # Auto converted arduino musics library
 
-Auto convert( Midi to Arduino Converter) tool by :
+Auto convert( Midi to Arduino Converter ) tool by :
 
 Credit:
 
